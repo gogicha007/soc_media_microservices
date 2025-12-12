@@ -1,5 +1,5 @@
 import logger from "../utils/logger.js";
-import uploadMediaToCloudinary from "../utils/cloudinary.js";
+import {uploadMediaToCloudinary} from "../utils/cloudinary.js";
 
 const uploadMedia = async (req, res) => {
   logger.info("Starting media upload");

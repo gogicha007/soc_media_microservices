@@ -419,3 +419,9 @@
 {"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-11T13:47:27.291Z"}
 {"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-11T13:47:27.301Z"}
 {"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-11T13:47:29.026Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T08:17:41.540Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T08:17:41.550Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T08:17:43.090Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T08:19:21.412Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T08:19:21.419Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T08:19:23.124Z"}

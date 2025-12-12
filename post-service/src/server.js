@@ -1,16 +1,16 @@
-import 'dotenv/config'
-import express from 'express'
-import mongoose from 'mongoose'
-import Redis from 'ioredis'
-import cors from 'cors'
-import helmet from 'helmet'
-import postRoutes from '../src/routes/post-routes.js'
-import errorHandler from './middleware/errorHandler.js'
-import logger from './utils/logger.js'
-import { connectToRabbitMQ } from './utils/rabbitmq.js'
+import "dotenv/config";
+import express from "express";
+import mongoose from "mongoose";
+import Redis from "ioredis";
+import cors from "cors";
+import helmet from "helmet";
+import postRoutes from "../src/routes/post-routes.js";
+import errorHandler from "./middleware/errorHandler.js";
+import logger from "./utils/logger.js";
+import { connectToRabbitMQ } from "./utils/rabbitmq.js";
 
-const app = express()
-const PORT = process.env.PORT || 3002
+const app = express();
+const PORT = process.env.PORT || 3002;
 
 // connect to mongodb
 mongoose
@@ -19,7 +19,6 @@ mongoose
   .catch((e) => logger.error("Mongo connection error", e));
 
 const redisClient = new Redis(process.env.REDIS_URL);
-
 
 //middleware
 app.use(helmet());

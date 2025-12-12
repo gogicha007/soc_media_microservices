@@ -1,6 +1,6 @@
 import "dotenv/config";
 import { v2 as cloudinary } from "cloudinary";
-import logger from "./logger";
+import logger from "./logger.js";
 
 cloudinary.config({
   cloud_name: process.env.CLOUD_NAME,
