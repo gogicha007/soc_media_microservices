@@ -1,5 +1,6 @@
 import logger from "../utils/logger.js";
 import {uploadMediaToCloudinary} from "../utils/cloudinary.js";
+import Media from "../models/Media.js";
 
 const uploadMedia = async (req, res) => {
   logger.info("Starting media upload");
@@ -13,10 +14,10 @@ const uploadMedia = async (req, res) => {
       });
     }
 
-    const { originalName, mimeType, buffer } = req.file;
+    const { originalname, mimetype, buffer } = req.file;
     const userId = req.user.userId;
 
-    logger.info(`File details: name=${originalName}, type=${mimeType}`);
+    logger.info(`File details: name=${originalname}, type=${mimetype}`);
     logger.info(`Uploading to cloudinary starting...`);
 
     const cloudinaryUploadResult = await uploadMediaToCloudinary(req.file);
@@ -24,10 +25,10 @@ const uploadMedia = async (req, res) => {
       `Cloudinary upload successfully. Public ID ${cloudinaryUploadResult.public_id}`
     );
 
-    const newlyCreatedMedia = new MediaCapabilities({
+    const newlyCreatedMedia = new Media({
       publicId: cloudinaryUploadResult.public_id,
-      originalName,
-      mimeType,
+      originalName: originalname,
+      mimeType: mimetype,
       url: cloudinaryUploadResult.secure_url,
       userId: userId,
     });

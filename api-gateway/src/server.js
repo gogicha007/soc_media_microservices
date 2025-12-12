@@ -102,10 +102,7 @@ app.use(
     ...proxyOptions,
     proxyReqOptDecorator: (proxyReqOpts, srcReq) => {
       proxyReqOpts.headers["x-user-id"] = srcReq.user.userId;
-      if (!srcReq.headers["content-type"].startsWith("multipart/form-data")) {
-        proxyReqOpts.headers["Content-Type"] = "application/json";
-      }
-
+      // Don't override Content-Type for multipart - it contains the boundary
       return proxyReqOpts;
     },
     userResDecorator: (proxyRes, proxyResData, userReq, userRes) => {
