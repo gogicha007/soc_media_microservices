@@ -1,0 +1,369 @@
+{"level":"error","message":"Mongo connection error The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"identity-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:230:11)\n    at NativeConnection.openUri (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\connection.js:1075:34)\n    at Mongoose.connect (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\mongoose.js:451:15)\n    at file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/server.js:19:4\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:647:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)","timestamp":"2025-12-08T12:14:47.314Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:14:47.327Z"}
+{"level":"error","message":"Mongo connection error The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"identity-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:230:11)\n    at NativeConnection.openUri (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\connection.js:1075:34)\n    at Mongoose.connect (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\mongoose.js:451:15)\n    at file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/server.js:19:4\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:647:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)","timestamp":"2025-12-08T12:14:49.127Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:14:49.140Z"}
+{"level":"error","message":"Mongo connection error The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"identity-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:230:11)\n    at NativeConnection.openUri (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\connection.js:1075:34)\n    at Mongoose.connect (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\mongoose.js:451:15)\n    at file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/server.js:19:4\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:647:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)","timestamp":"2025-12-08T12:15:11.037Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:15:11.050Z"}
+{"level":"error","message":"Mongo connection error The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","service":"identity-service","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.createClient (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:230:11)\n    at NativeConnection.openUri (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\connection.js:1075:34)\n    at Mongoose.connect (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\mongoose.js:451:15)\n    at file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/server.js:20:4\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:647:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)","timestamp":"2025-12-08T12:15:29.782Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:15:29.795Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:15:32.142Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T12:15:33.885Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:48:38.904Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T12:48:40.642Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T12:54:24.511Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T12:54:24.512Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T12:54:24.517Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"N","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error","service":"identity-service","timestamp":"2025-12-08T12:54:24.526Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:57:26.022Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:57:27.385Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T12:57:28.922Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T12:57:30.207Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T12:57:30.208Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T12:57:30.212Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"N","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error 1","service":"identity-service","timestamp":"2025-12-08T12:57:30.218Z"}
+{"level":"info","message":"Received POST request to /api/auth/register/","service":"identity-service","timestamp":"2025-12-08T12:58:49.579Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T12:58:49.579Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T12:58:49.581Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"N","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error 1","service":"identity-service","timestamp":"2025-12-08T12:58:49.583Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T12:58:58.176Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T12:58:58.177Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T12:58:58.178Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"N","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error 1","service":"identity-service","timestamp":"2025-12-08T12:58:58.179Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:59:07.225Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T12:59:08.952Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:59:52.804Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T12:59:54.362Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T12:59:56.915Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T12:59:58.478Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T12:59:58.601Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T12:59:58.602Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T12:59:58.607Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"N","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error","service":"identity-service","timestamp":"2025-12-08T12:59:58.613Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T13:00:55.314Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T13:00:56.870Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T13:00:57.195Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T13:00:57.196Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T13:00:57.200Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"n","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error","service":"identity-service","timestamp":"2025-12-08T13:00:57.207Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T13:01:02.267Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T13:01:02.268Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T13:01:02.269Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"n","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error","service":"identity-service","timestamp":"2025-12-08T13:01:02.271Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T13:01:24.121Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T13:01:25.875Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T13:01:28.500Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T13:01:28.501Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T13:01:28.505Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"n","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error","service":"identity-service","timestamp":"2025-12-08T13:01:28.512Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T13:02:07.513Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T13:02:08.871Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T13:02:10.511Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T13:02:10.613Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T13:02:10.614Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T13:02:10.620Z"}
+{"0":"\"","1":"u","10":"i","11":"s","12":" ","13":"r","14":"e","15":"q","16":"u","17":"i","18":"r","19":"e","2":"e","20":"d","3":"r","4":"n","5":"a","6":"m","7":"e","8":"\"","9":" ","level":"warn","message":"validation error","service":"identity-service","timestamp":"2025-12-08T13:02:10.628Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-08T13:02:51.069Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-08T13:02:52.720Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-12-08T13:02:53.801Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-08T13:02:53.801Z"}
+{"level":"info","message":"registration endpoint hit...","service":"identity-service","timestamp":"2025-12-08T13:02:53.806Z"}
+{"buffer":{"data":[105,54,204,125,76,77,97,118,190,245,15,61],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"identity-service","timestamp":"2025-12-08T13:02:54.139Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-09T13:32:47.607Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-09T13:32:49.219Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2025-12-09T13:37:45.289Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-09T13:37:45.291Z"}
+{"level":"info","message":"registration endpoint hit...","service":"api-gateway","timestamp":"2025-12-09T13:37:45.298Z"}
+{"level":"warn","message":"User already exists","service":"api-gateway","timestamp":"2025-12-09T13:37:45.478Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2025-12-09T13:38:04.323Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-09T13:38:04.323Z"}
+{"level":"info","message":"registration endpoint hit...","service":"api-gateway","timestamp":"2025-12-09T13:38:04.325Z"}
+{"buffer":{"data":[105,56,38,60,50,23,28,237,21,141,151,249],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"api-gateway","timestamp":"2025-12-09T13:38:04.653Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-09T13:45:32.545Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-09T13:45:34.138Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:47:15.031Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:47:16.648Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:47:18.203Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T06:48:23.921Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T06:48:23.922Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T06:48:23.926Z"}
+{"level":"error","message":"Login failed user.comparePassword is not a function","service":"api-gateway","stack":"TypeError: user.comparePassword is not a function\n    at loginUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:77:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-10T06:48:24.095Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:49:14.547Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:49:16.176Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T06:49:18.585Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T06:49:18.585Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T06:49:18.589Z"}
+{"level":"error","message":"Login failed pchstr must contain a $ as first char","service":"api-gateway","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:166:27)\n    at userSchema.methods.comparePassword (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/models/User.js:45:25)\n    at loginUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:77:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-10T06:49:18.754Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:53:00.036Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:53:01.681Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:53:04.537Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T06:53:05.747Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T06:53:05.748Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T06:53:05.753Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:53:06.087Z"}
+{"level":"error","message":"Login failed pchstr must contain a $ as first char","service":"api-gateway","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:166:27)\n    at userSchema.methods.comparePassword (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/models/User.js:45:25)\n    at loginUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:77:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-10T06:53:07.243Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:53:16.162Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:53:17.663Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:53:19.638Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:53:21.182Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T06:53:23.278Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T06:53:23.278Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T06:53:23.283Z"}
+{"level":"error","message":"Login failed pchstr must contain a $ as first char","service":"api-gateway","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:166:27)\n    at userSchema.methods.comparePassword (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/models/User.js:45:25)\n    at loginUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:77:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-10T06:53:23.455Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:53:41.416Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:53:42.934Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T06:56:13.073Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T06:56:13.074Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T06:56:13.078Z"}
+{"level":"error","message":"Login failed pchstr must contain a $ as first char","service":"api-gateway","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:166:27)\n    at userSchema.methods.comparePassword (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/models/User.js:45:25)\n    at loginUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:77:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-10T06:56:13.242Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:56:54.313Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:56:55.882Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T06:57:08.094Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T06:57:09.620Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T06:57:13.941Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T06:57:13.942Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T06:57:13.949Z"}
+{"level":"error","message":"Login failed pchstr must contain a $ as first char","service":"api-gateway","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\argon2\\argon2.cjs:166:27)\n    at userSchema.methods.comparePassword (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/models/User.js:46:25)\n    at loginUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:77:40)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-10T06:57:14.117Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2025-12-10T07:10:42.980Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T07:10:42.981Z"}
+{"level":"info","message":"registration endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T07:10:42.983Z"}
+{"level":"error","message":"Registration failed next is not a function","service":"api-gateway","stack":"TypeError: next is not a function\n    at model.<anonymous> (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/models/User.js:41:3)\n    at async Kareem.execPre (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\kareem\\index.js:65:24)\n    at async model.$__save (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:369:5)\n    at async model.save (E:\\CODES\\NodeJS\\social-media-microservices\\identity-service\\node_modules\\mongoose\\lib\\model.js:609:5)\n    at async registerUser (file:///E:/CODES/NodeJS/social-media-microservices/identity-service/src/controllers/identity-controller.js:33:5)","timestamp":"2025-12-10T07:10:43.211Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:11:46.753Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:11:48.409Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2025-12-10T07:11:52.842Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T07:11:52.843Z"}
+{"level":"info","message":"registration endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T07:11:52.847Z"}
+{"buffer":{"data":[105,57,29,57,20,110,192,200,249,171,185,70],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"api-gateway","timestamp":"2025-12-10T07:11:53.235Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T07:12:32.793Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T07:12:32.794Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T07:12:32.796Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:13:37.653Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:13:39.285Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:13:48.667Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:14:13.969Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:14:15.507Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:14:23.068Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:14:24.567Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:14:31.154Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:14:32.693Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:14:34.337Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:14:35.919Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:14:37.228Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:14:40.077Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:14:50.647Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:14:52.189Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:06.266Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:07.806Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:11.204Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:12.755Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:20.210Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:21.789Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:26.036Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:27.538Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:33.739Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:38.225Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:39.997Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:42.595Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:44.166Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:46.962Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:15:48.504Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:15:50.043Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:16:18.095Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:16:19.582Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:16:37.542Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:16:39.137Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:16:46.648Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:16:48.259Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:16:55.577Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:16:57.170Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:03.305Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:06.064Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:10.353Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:12.443Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:17:13.988Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:25.916Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:17:27.491Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:29.098Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:17:30.640Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:17:40.145Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:17:41.698Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:19:40.723Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:19:42.380Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:19:52.315Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:19:54.301Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:19:55.856Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:20:02.115Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:20:03.637Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:20:12.954Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:20:14.748Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:20:16.314Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:20:29.638Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:20:31.165Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:20:33.010Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:20:34.530Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:33:12.521Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:33:14.168Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:33:18.996Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:33:20.536Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:33:28.306Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:33:29.822Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:38:20.303Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:38:21.864Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:38:23.646Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:38:25.163Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:38:26.510Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:38:28.046Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:17.250Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:54:18.855Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:30.492Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:54:33.914Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:39.664Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:42.704Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:44.028Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:45.497Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:54:47.133Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:49.872Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:51.985Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:54:58.771Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:00.283Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:06.658Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:15.159Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:17.332Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:19.941Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:28.413Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:30.749Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:34.415Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:35.954Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:41.812Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:43.338Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:47.431Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:49.043Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:52.997Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:54.495Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:55:58.422Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:55:59.950Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:05.437Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:07.961Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:56:09.464Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:28.749Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:56:30.389Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:37.425Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:43.473Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:46.330Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:56:47.858Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:56:52.721Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:56:54.236Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:57:02.175Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:57:03.681Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:57:07.454Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:57:08.959Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:57:28.891Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:57:30.555Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:57:39.117Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:57:40.677Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T07:57:51.552Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T07:57:53.453Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:02:38.261Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:02:39.845Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:02:52.637Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:02:54.134Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:03:01.917Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:03:04.273Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:03:05.803Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:03:13.482Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:03:14.982Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:03:21.748Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:03:25.356Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:03:28.569Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:03:30.109Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:03:43.862Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:03:45.423Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:04:05.164Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:04:06.703Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:04:08.217Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:04:09.688Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:04:14.347Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:04:15.870Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:04:23.364Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:04:24.864Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:15.869Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:17.927Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:32.009Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:05:33.496Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:36.193Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:05:37.706Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:40.478Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:42.782Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:45.001Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:46.824Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:05:48.341Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:52.180Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:05:53.748Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:05:55.233Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:06:09.554Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:06:11.108Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:06:28.023Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:06:29.503Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:06:34.553Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:06:36.078Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:06:38.589Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:06:40.103Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:06:46.007Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:06:47.516Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:06:50.761Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:06:52.305Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:07:27.932Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:07:29.504Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:07:31.040Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:07:35.748Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:07:37.295Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:07:41.969Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:07:43.911Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:07:45.508Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:08:29.310Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:08:30.980Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:08:36.812Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:08:38.299Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:08:43.945Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:08:47.013Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:08:48.497Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:09:28.849Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:09:30.491Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:10:10.057Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:10:11.546Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:10:14.555Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:10:16.108Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:15:03.997Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:15:05.660Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:15:18.298Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:15:19.844Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"api-gateway","timestamp":"2025-12-10T08:15:24.892Z"}
+{"level":"info","message":"Connected to mongodb","service":"api-gateway","timestamp":"2025-12-10T08:15:26.462Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2025-12-10T08:16:44.424Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T08:16:44.425Z"}
+{"level":"info","message":"registration endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T08:16:44.428Z"}
+{"0":"\"","1":"p","10":" ","11":"l","12":"e","13":"n","14":"g","15":"t","16":"h","17":" ","18":"m","19":"u","2":"a","20":"s","21":"t","22":" ","23":"b","24":"e","25":" ","26":"a","27":"t","28":" ","29":"l","3":"s","30":"e","31":"a","32":"s","33":"t","34":" ","35":"6","36":" ","37":"c","38":"h","39":"a","4":"s","40":"r","41":"a","42":"c","43":"t","44":"e","45":"r","46":"s","47":" ","48":"l","49":"o","5":"w","50":"n","51":"g","6":"o","7":"r","8":"d","9":"\"","level":"warn","message":"validation error","service":"api-gateway","timestamp":"2025-12-10T08:16:44.435Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"api-gateway","timestamp":"2025-12-10T08:16:51.564Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T08:16:51.565Z"}
+{"level":"info","message":"registration endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T08:16:51.567Z"}
+{"buffer":{"data":[105,57,44,115,241,25,93,50,71,162,29,160],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"api-gateway","timestamp":"2025-12-10T08:16:51.953Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-12-10T08:17:20.188Z"}
+{"level":"info","message":"Request body, [object Object]","service":"api-gateway","timestamp":"2025-12-10T08:17:20.189Z"}
+{"level":"info","message":"Login endpoint hit...","service":"api-gateway","timestamp":"2025-12-10T08:17:20.196Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identiryapi-gateway","timestamp":"2025-12-10T10:58:02.937Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identiry-service","timestamp":"2025-12-10T10:58:05.730Z"}
+{"level":"info","message":"Connected to mongodb","service":"identiry-service","timestamp":"2025-12-10T10:58:07.271Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-10T10:58:18.181Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-10T10:58:19.698Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-10T13:27:42.726Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-10T13:27:42.729Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-10T13:27:42.739Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-10T13:52:31.530Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-10T13:52:33.179Z"}
+{"level":"info","message":"Identiry service running on port 3001","service":"identity-service","timestamp":"2025-12-11T10:56:35.286Z"}
+{"level":"info","message":"Connected to mongodb","service":"identity-service","timestamp":"2025-12-11T10:56:36.922Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-11T10:57:59.641Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-11T10:57:59.643Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-11T10:57:59.648Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-12-11T11:58:48.834Z"}
+{"level":"info","message":"Request body, [object Object]","service":"identity-service","timestamp":"2025-12-11T11:58:48.837Z"}
+{"level":"info","message":"Login endpoint hit...","service":"identity-service","timestamp":"2025-12-11T11:58:48.841Z"}
