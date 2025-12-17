@@ -1,5 +1,5 @@
 import logger from "../utils/logger.js";
-import {uploadMediaToCloudinary} from "../utils/cloudinary.js";
+import { uploadMediaToCloudinary } from "../utils/cloudinary.js";
 import Media from "../models/Media.js";
 
 const uploadMedia = async (req, res) => {
@@ -50,4 +50,17 @@ const uploadMedia = async (req, res) => {
   }
 };
 
-export { uploadMedia };
+const getAllMedias = async (req, res) => {
+  try {
+    const results = await Media.find({});
+    res.json({ results });
+  } catch (e) {
+    logger.error("Error fetching media", e);
+    res.status(500).json({
+      success: false,
+      message: "Error fetching media",
+    });
+  }
+};
+
+export { uploadMedia, getAllMedias };

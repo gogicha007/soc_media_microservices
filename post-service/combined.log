@@ -425,3 +425,73 @@
 {"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T08:19:21.412Z"}
 {"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T08:19:21.419Z"}
 {"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T08:19:23.124Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T10:49:26.161Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T10:49:26.173Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T10:49:27.707Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T10:49:29.505Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T10:49:29.514Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T10:49:30.978Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T10:49:44.573Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T10:49:44.580Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T10:49:46.106Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-12-12T10:51:35.719Z"}
+{"0":"{","1":"\n","10":"n","100":"]","101":"\n","102":"}","11":"t","12":"\"","13":":","14":" ","15":"\"","16":"f","17":"i","18":"r","19":"s","2":" ","20":"t","21":" ","22":"p","23":"o","24":"s","25":"t","26":" ","27":"f","28":"r","29":"o","3":" ","30":"m","31":" ","32":"t","33":"o","34":"d","35":"a","36":"y","37":" ","38":"1","39":"2","4":"\"","40":".","41":"1","42":"2","43":".","44":"2","45":"0","46":"2","47":"5","48":"\"","49":",","5":"c","50":"\n","51":" ","52":" ","53":"\"","54":"m","55":"e","56":"d","57":"i","58":"a","59":"I","6":"o","60":"d","61":"s","62":"\"","63":":","64":" ","65":"[","66":"\n","67":" ","68":" ","69":" ","7":"n","70":" ","71":"\"","72":"6","73":"9","74":"3","75":"b","76":"f","77":"1","78":"7","79":"4","8":"t","80":"8","81":"8","82":"9","83":"f","84":"6","85":"6","86":"f","87":"4","88":"e","89":"9","9":"e","90":"1","91":"1","92":"d","93":"d","94":"7","95":"c","96":"\"","97":"\n","98":" ","99":" ","level":"info","message":"Request body:","service":"post-service","timestamp":"2025-12-12T10:51:35.720Z"}
+{"level":"info","message":"Create post endpoint hit...","service":"post-service","timestamp":"2025-12-12T10:51:35.722Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2025-12-12T10:51:35.902Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-12-12T10:52:10.765Z"}
+{"0":"{","1":"}","level":"info","message":"Request body:","service":"post-service","timestamp":"2025-12-12T10:52:10.765Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-12-12T10:53:02.453Z"}
+{"0":"{","1":"}","level":"info","message":"Request body:","service":"post-service","timestamp":"2025-12-12T10:53:02.454Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error connecting to rabbit mq","service":"post-service","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2025-12-12T13:19:01.310Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-12T13:19:01.317Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-12T13:19:02.873Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:05:43.602Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:05:43.609Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:05:45.017Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:24:39.360Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:24:39.369Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:24:40.989Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:24:46.216Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:24:46.227Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:24:47.569Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:24:47.577Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:24:49.051Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:24:58.986Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:24:58.994Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:25:00.790Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:25:00.798Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:25:02.267Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:25:07.952Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:25:07.959Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:25:09.445Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:25:10.807Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:25:10.815Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:25:12.297Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:25:23.218Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:25:23.227Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:25:24.670Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:25:45.238Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:25:45.249Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:25:55.056Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:25:55.065Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:25:56.565Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:26:02.159Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:26:02.167Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:26:03.645Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:26:11.868Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:26:11.875Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:26:13.988Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:26:13.994Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:26:15.422Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:26:47.472Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:26:47.479Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:26:49.044Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-17T06:26:55.004Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-12-17T06:26:55.012Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-17T06:26:56.519Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-12-17T06:51:59.772Z"}
+{"0":"{","1":"\n","10":"n","11":"t","12":"\"","13":":","14":" ","15":"\"","16":"j","17":"o","18":"h","19":"n","2":" ","20":" ","21":"m","22":"a","23":"y","24":"o","25":"r","26":" ","27":"c","28":"o","29":"n","3":" ","30":"c","31":"e","32":"r","33":"t","34":" ","35":"2","36":"0","37":"2","38":"5","39":"1","4":"\"","40":"2","41":"1","42":"7","43":"\"","44":",","45":"\n","46":" ","47":" ","48":"\"","49":"m","5":"c","50":"e","51":"d","52":"i","53":"a","54":"I","55":"d","56":"s","57":"\"","58":":","59":" ","6":"o","60":"[","61":"\n","62":" ","63":" ","64":" ","65":" ","66":"\"","67":"6","68":"9","69":"4","7":"n","70":"2","71":"5","72":"2","73":"9","74":"4","75":"3","76":"8","77":"3","78":"5","79":"8","8":"t","80":"9","81":"2","82":"b","83":"5","84":"2","85":"b","86":"1","87":"1","88":"5","89":"1","9":"e","90":"e","91":"\"","92":"\n","93":" ","94":" ","95":"]","96":"\n","97":"}","level":"info","message":"Request body:","service":"post-service","timestamp":"2025-12-17T06:51:59.773Z"}
+{"level":"info","message":"Create post endpoint hit...","service":"post-service","timestamp":"2025-12-17T06:51:59.776Z"}
+{"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2025-12-17T06:51:59.961Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","service":"post-service","timestamp":"2025-12-17T06:52:36.534Z"}
+{"0":"{","1":"}","level":"info","message":"Request body:","service":"post-service","timestamp":"2025-12-17T06:52:36.535Z"}
