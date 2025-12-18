@@ -1,5 +1,5 @@
 import Search from "../models/Search.js";
-import logger from '../utils/logger.js'
+import logger from "../utils/logger.js";
 
 async function handlePostCreated(event) {
   try {
@@ -20,4 +20,12 @@ async function handlePostCreated(event) {
   }
 }
 
-export { handlePostCreated };
+async function handlePostDeleted(event) {
+  try {
+    await Search.findOneAndDelete({ postId: event.postId });
+    logger.info(`Search post deleted: ${event.postId}}`);
+  } catch (e) {
+    logger.error(e, "Error handling post deletion event");
+  }
+}
+export { handlePostCreated, handlePostDeleted };

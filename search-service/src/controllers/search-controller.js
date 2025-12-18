@@ -1,6 +1,7 @@
 import logger from "../utils/logger.js";
 import Search from "../models/Search.js";
 
+//** implement caching here */
 const searchPostController = async (req, res) => {
   logger.info("Search endpoint hit...");
   try {

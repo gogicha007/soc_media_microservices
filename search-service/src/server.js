@@ -8,7 +8,10 @@ import logger from "./utils/logger.js";
 import errorHandler from "./middleware/errorHandler.js";
 import { connectToRabbitMQ, consumeEvent } from "./utils/rabbitmq.js";
 import searchRoutes from "./routes/search-routes.js";
-import { handlePostCreated } from "./event-handlers/search-event-handlers.js";
+import {
+  handlePostCreated,
+  handlePostDeleted,
+} from "./event-handlers/search-event-handlers.js";
 
 const app = express();
 const PORT = process.env.PORT || 3004;
@@ -32,6 +35,9 @@ app.use((req, res, next) => {
   next();
 });
 
+//** to implement IP based rate limiting for sensitive endpoints */
+//*** to implement redis caching */
+
 app.use("/api/search", searchRoutes);
 
 app.use(errorHandler);
@@ -42,10 +48,15 @@ async function startServer() {
 
     // consume the events / subscribe to the events
     await consumeEvent("post.created", handlePostCreated);
+    await consumeEvent("post.deleted", handlePostDeleted);
+
+    app.listen(PORT, () => {
+      logger.info(`Saerch service is running :${PORT}`);
+    });
   } catch (e) {
     logger.error(e, "Failed to start search service");
     process.exit(1);
   }
 }
 
-startServer()
+startServer();
