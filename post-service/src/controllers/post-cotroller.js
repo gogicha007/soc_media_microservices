@@ -34,6 +34,13 @@ const createPost = async (req, res) => {
     });
 
     await newlyCreatedPost.save();
+
+    await publishEvent("post.created", {
+      postId: newlyCreatedPost._id.toString(),
+      userId: newlyCreatedPost.user.toString(),
+      content: newlyCreatedPost.content,
+      createdAt: newlyCreatedPost.createdAt,
+    });
     await invalidatePostCache(req, newlyCreatedPost._id.toString());
 
     logger.info("Post created successfully");
@@ -141,11 +148,11 @@ const deletePost = async (req, res) => {
 
     // publish post delete method
 
-    await publishEvent('post.deleted', {
+    await publishEvent("post.deleted", {
       postId: post._id.toString(),
       userId: req.user.userId,
-      mediaIds: post.mediaIds
-    })
+      mediaIds: post.mediaIds,
+    });
     await invalidatePostCache(req, req.params.id);
     res.json({
       message: "Post deleted successfully",

@@ -1,0 +1,3 @@
+{"level":"info","message":"Connected to rabbit mq","service":"post-service","timestamp":"2025-12-18T07:05:11.617Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-12-18T07:05:11.726Z"}
+{"level":"info","message":"Connected to mongodb","service":"post-service","timestamp":"2025-12-18T07:05:13.290Z"}
