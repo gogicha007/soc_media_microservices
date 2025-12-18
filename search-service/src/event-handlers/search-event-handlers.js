@@ -1,10 +1,11 @@
 import Search from "../models/Search.js";
+import logger from '../utils/logger.js'
 
 async function handlePostCreated(event) {
   try {
     const newSearchPost = new Search({
       postId: event.postId,
-      useId: event.userId,
+      userId: event.userId,
       content: event.content,
       createdAt: event.createdAt,
     });

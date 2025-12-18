@@ -569,3 +569,11 @@
 {"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-12-18T06:15:05.075Z"}
 {"level":"info","message":"Media service is running on port 3003","service":"media-service","timestamp":"2025-12-18T06:15:05.079Z"}
 {"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-12-18T06:15:06.606Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"media-service","timestamp":"2025-12-18T07:53:34.930Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-12-18T07:53:34.948Z"}
+{"level":"info","message":"Media service is running on port 3003","service":"media-service","timestamp":"2025-12-18T07:53:34.953Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-12-18T07:53:36.455Z"}
+{"level":"info","message":"Connected to rabbit mq","service":"media-service","timestamp":"2025-12-18T07:58:37.485Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-12-18T07:58:37.499Z"}
+{"level":"info","message":"Media service is running on port 3003","service":"media-service","timestamp":"2025-12-18T07:58:37.504Z"}
+{"level":"info","message":"Connected to mongodb","service":"media-service","timestamp":"2025-12-18T07:58:39.566Z"}

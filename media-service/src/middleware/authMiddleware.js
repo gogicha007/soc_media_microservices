@@ -1,4 +1,4 @@
-import logger from "../utils/logger.js";
+import logger from '../utils/logger.js'
 
 const authenticateRequest = (req, res, next) => {
   const userId = req.headers["x-user-id"];
